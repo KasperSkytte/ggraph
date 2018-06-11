@@ -38,7 +38,7 @@ a call to a position adjustment function.}
 
 \item{arrow}{Arrow specification, as created by \code{\link[grid:arrow]{grid::arrow()}}.}
 
-\item{spread}{Modify the width of the fans \code{spread &gt; 1} will create
+\item{spread}{Modify the width of the fans \code{spread > 1} will create
 wider fans while the reverse will make them more narrow.}
 
 \item{n}{The number of points to create along the path.}

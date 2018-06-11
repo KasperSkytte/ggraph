@@ -72,7 +72,7 @@ These geoms are equivalent in functionality to \code{\link[ggplot2:geom_text]{gg
 }
 \section{Aesthetics}{
 
-\code{geom_node_point} understand the following aesthetics. Bold aesthetics are
+\code{geom_node_text} understands the following aesthetics. Bold aesthetics are
 automatically set, but can be overridden. Italic aesthetics are required but
 not set by default
 \itemize{
